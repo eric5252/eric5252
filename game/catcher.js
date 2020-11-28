@@ -106,7 +106,9 @@ function endGame() {
   fill(255);
   text("Game Over!", width / 2, height / 2);
 }
-
+function restart(){
+  
+}
 /**
  * returns a random color
  */
